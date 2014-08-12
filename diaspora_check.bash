@@ -1,1 +1,1 @@
-/usr/local/bin/diaspora_check.bash
+/home/hiato/bin/diaspora_check.bash
