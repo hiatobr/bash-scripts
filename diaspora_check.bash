@@ -1,0 +1,1 @@
+/usr/local/bin/diaspora_check.bash
